@@ -41,7 +41,7 @@
 
   
   <br/>
-    <br><em>🤓 I'm currently learnig:</em>
+    <br><em>🤓 I'm currently learnig :</em>
   <br />
   
 [![Electron](https://img.shields.io/badge/-Electron-f9fbfa?logo=Electron&style=for-the-badge)](https://www.electronjs.org/)

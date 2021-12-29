@@ -55,7 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lilyjul&show_icons=true&theme=panda" alt="Yuliya Malyutina" />
       
 
- <em align="center"> ☎️ You can find and call me here:</em>
+<!--  <em align="center"> ☎️ You can find and call me here:</em>
     <a  align="center" href='http://t.me/l1lyjul'>
     <img src='https://cdn-icons.flaticon.com/png/512/4701/premium/4701496.png?token=exp=1636376506~hmac=de1d77fbb4246889cfffa9542e1d8b45'
          style="width:25px;"
@@ -70,4 +70,4 @@
     <img src='https://cdn-icons.flaticon.com/png/512/4701/premium/4701553.png?token=exp=1636376506~hmac=03b962a9af0adec12a69cc497ec50571'
          style="width:25px;"
          />
-  </a>
+  </a> -->
